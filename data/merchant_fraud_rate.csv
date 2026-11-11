@@ -1,0 +1,694 @@
+merchant,merchant_fraud_rate
+fraud_Abbott-Rogahn,0.0
+fraud_Abbott-Steuber,0.043478260869565216
+fraud_Abernathy and Sons,0.029411764705882353
+fraud_Abshire PLC,0.0
+"fraud_Adams, Kovacek and Kuhlman",0.0
+fraud_Adams-Barrows,0.0
+"fraud_Altenwerth, Cartwright and Koss",0.06818181818181818
+fraud_Altenwerth-Kilback,0.015873015873015872
+fraud_Ankunding LLC,0.02857142857142857
+fraud_Ankunding-Carroll,0.0
+"fraud_Armstrong, Walter and Gottlieb",0.0
+fraud_Auer LLC,0.0
+fraud_Auer-Mosciski,0.015625
+fraud_Auer-West,0.021739130434782608
+fraud_Bahringer Group,0.0
+"fraud_Bahringer, Bergnaum and Quitzon",0.0
+"fraud_Bahringer, Osinski and Block",0.0
+"fraud_Bahringer, Schoen and Corkery",0.0
+fraud_Bahringer-Larson,0.0
+fraud_Bahringer-Streich,0.0
+fraud_Bailey-Morar,0.020833333333333332
+fraud_Balistreri-Nader,0.0
+fraud_Barrows PLC,0.041666666666666664
+fraud_Bartoletti and Sons,0.0
+fraud_Bartoletti-Wunsch,0.0
+fraud_Barton Inc,0.0
+fraud_Barton LLC,0.06521739130434782
+fraud_Bashirian Group,0.0
+fraud_Bauch-Blanda,0.0
+fraud_Bauch-Raynor,0.08333333333333333
+fraud_Baumbach Ltd,0.0
+"fraud_Baumbach, Feeney and Morar",0.06896551724137931
+"fraud_Baumbach, Hodkiewicz and Walsh",0.019230769230769232
+"fraud_Baumbach, Strosin and Nicolas",0.01639344262295082
+fraud_Bechtelar-Rippin,0.0
+"fraud_Becker, Harris and Harvey",0.0
+fraud_Bednar Group,0.07407407407407407
+fraud_Bednar Inc,0.0
+fraud_Bednar PLC,0.0
+fraud_Beer-Jast,0.0
+fraud_Beier LLC,0.0
+fraud_Beier and Sons,0.0
+fraud_Beier-Hyatt,0.04285714285714286
+fraud_Berge LLC,0.0
+"fraud_Berge, Kautzer and Harris",0.0
+fraud_Berge-Hills,0.0
+fraud_Berge-Ullrich,0.0
+fraud_Bernhard Inc,0.016666666666666666
+"fraud_Bernhard, Grant and Langworth",0.0
+fraud_Bernhard-Lesch,0.0
+fraud_Bernier and Sons,0.0
+"fraud_Bernier, Streich and Jewess",0.037037037037037035
+"fraud_Bernier, Volkman and Hoeger",0.0
+"fraud_Bins, Balistreri and Beatty",0.01818181818181818
+fraud_Bins-Howell,0.0
+fraud_Bins-Rice,0.01694915254237288
+fraud_Bins-Tillman,0.0
+fraud_Block Group,0.0
+fraud_Block-Hauck,0.0
+fraud_Block-Parisian,0.03333333333333333
+fraud_Bode-Rempel,0.0
+fraud_Bode-Schuster,0.0
+"fraud_Boehm, Block and Jakubowski",0.0
+"fraud_Boehm, Predovic and Reinger",0.0
+fraud_Bogisich Inc,0.022727272727272728
+fraud_Bogisich-Homenick,0.03225806451612903
+fraud_Bogisich-Weimann,0.0
+fraud_Botsford Ltd,0.0
+fraud_Botsford PLC,0.0
+fraud_Botsford and Sons,0.0
+fraud_Boyer PLC,0.034482758620689655
+fraud_Boyer-Haley,0.0625
+fraud_Boyer-Reichert,0.041666666666666664
+fraud_Bradtke PLC,0.04
+"fraud_Bradtke, Torp and Bahringer",0.0
+fraud_Breitenberg LLC,0.0
+fraud_Breitenberg-Hermiston,0.0
+fraud_Brekke and Sons,0.0
+fraud_Brown Inc,0.018867924528301886
+fraud_Brown PLC,0.03571428571428571
+"fraud_Brown, Homenick and Lesch",0.0
+fraud_Brown-Greenholt,0.0
+fraud_Bruen-Yost,0.0
+fraud_Buckridge PLC,0.03225806451612903
+fraud_Carroll PLC,0.029411764705882353
+fraud_Cartwright PLC,0.0
+fraud_Cartwright-Harris,0.0
+"fraud_Casper, Hand and Zulauf",0.013888888888888888
+fraud_Cassin-Harvey,0.05263157894736842
+fraud_Champlin and Sons,0.0
+"fraud_Champlin, Rolfson and Connelly",0.0
+fraud_Champlin-Casper,0.0
+"fraud_Christiansen, Goyette and Schamberger",0.0
+fraud_Christiansen-Gusikowski,0.0
+fraud_Cole PLC,0.0
+"fraud_Cole, Hills and Jewess",0.02
+fraud_Collier Inc,0.0
+fraud_Collier LLC,0.0
+fraud_Connelly PLC,0.0
+"fraud_Connelly, Reichert and Fritsch",0.03508771929824561
+fraud_Connelly-Carter,0.0
+fraud_Conroy Ltd,0.0
+"fraud_Conroy, Balistreri and Gorczany",0.0
+fraud_Conroy-Cruickshank,0.014285714285714285
+fraud_Conroy-Emard,0.0
+fraud_Cormier LLC,0.020202020202020204
+"fraud_Cormier, Stracke and Thiel",0.0
+fraud_Corwin-Collins,0.0
+fraud_Corwin-Gorczany,0.058823529411764705
+fraud_Corwin-Romaguera,0.0
+"fraud_Cremin, Hamill and Reichel",0.0
+"fraud_Crist, Jakubowski and Littel",0.0
+fraud_Crona and Sons,0.0
+"fraud_Cronin, Kshlerin and Weber",0.0
+fraud_Crooks and Sons,0.0
+fraud_Cruickshank-Mills,0.0
+fraud_Cummerata-Hilpert,0.0
+fraud_Cummerata-Jones,0.017241379310344827
+fraud_Cummings Group,0.0
+fraud_Cummings LLC,0.0
+fraud_Dach-Borer,0.0
+fraud_Dach-Nader,0.0
+"fraud_Dare, Casper and Bartoletti",0.0
+"fraud_Dare, Fritsch and Zboncak",0.0
+fraud_Dare-Gibson,0.0
+fraud_Dare-Marvin,0.0
+fraud_Daugherty LLC,0.0
+"fraud_Daugherty, Pouros and Beahan",0.0
+fraud_Daugherty-Thompson,0.0
+fraud_Deckow-Dare,0.0
+fraud_Deckow-O'Conner,0.0
+fraud_Denesik and Sons,0.017241379310344827
+"fraud_Denesik, Powlowski and Pouros",0.0
+fraud_Dibbert and Sons,0.0
+fraud_Dibbert-Green,0.0
+fraud_Dicki Ltd,0.0
+fraud_Dickinson Ltd,0.0
+fraud_Dickinson-Rempel,0.0
+fraud_Dietrich-Fadel,0.0
+fraud_Donnelly LLC,0.0
+fraud_Donnelly PLC,0.0
+fraud_Dooley Inc,0.0
+fraud_Dooley-Thompson,0.027777777777777776
+"fraud_Douglas, DuBuque and McKenzie",0.0
+"fraud_Douglas, Schneider and Turner",0.0
+fraud_Douglas-White,0.02564102564102564
+fraud_Doyle Ltd,0.03389830508474576
+fraud_DuBuque LLC,0.0
+"fraud_Durgan, Gislason and Spencer",0.017857142857142856
+fraud_Durgan-Auer,0.043478260869565216
+fraud_Ebert-Daugherty,0.0
+fraud_Effertz LLC,0.0
+"fraud_Effertz, Welch and Schowalter",0.024390243902439025
+"fraud_Eichmann, Bogan and Rodriguez",0.016666666666666666
+"fraud_Eichmann, Hayes and Treutel",0.0
+fraud_Eichmann-Kilback,0.0
+fraud_Eichmann-Russel,0.022727272727272728
+fraud_Emard Inc,0.0
+fraud_Emmerich-Luettgen,0.0
+fraud_Emmerich-Rau,0.0
+fraud_Erdman-Durgan,0.023809523809523808
+fraud_Erdman-Ebert,0.0
+fraud_Erdman-Kertzmann,0.041666666666666664
+fraud_Erdman-Schaden,0.0
+fraud_Ernser-Feest,0.0
+fraud_Ernser-Lynch,0.0
+fraud_Fadel Inc,0.0
+"fraud_Fadel, Mertz and Rippin",0.0
+fraud_Fadel-Hilpert,0.0
+fraud_Fahey Inc,0.0
+"fraud_Feil, Hilpert and Koss",0.0
+fraud_Feil-Morar,0.0
+"fraud_Ferry, Lynch and Kautzer",0.025
+"fraud_Ferry, Reichel and DuBuque",0.0
+fraud_Fisher Inc,0.022727272727272728
+fraud_Fisher-Schowalter,0.04081632653061224
+fraud_Flatley Group,0.0
+fraud_Flatley-Durgan,0.0
+fraud_Frami Group,0.02040816326530612
+fraud_Friesen Inc,0.0
+fraud_Friesen Ltd,0.023809523809523808
+fraud_Friesen-D'Amore,0.0
+fraud_Friesen-Ortiz,0.0
+fraud_Friesen-Stamm,0.0
+fraud_Fritsch LLC,0.05263157894736842
+fraud_Fritsch and Sons,0.0
+fraud_Funk Group,0.0
+fraud_Gaylord-Powlowski,0.0
+fraud_Gerhold LLC,0.0
+fraud_Gerlach Inc,0.0
+fraud_Gibson-Deckow,0.0
+fraud_Gislason Group,0.0
+fraud_Gleason and Sons,0.0
+fraud_Gleason-Macejkovic,0.0425531914893617
+"fraud_Goldner, Kovacek and Abbott",0.03278688524590164
+fraud_Goldner-Lemke,0.0
+fraud_Goodwin-Nitzsche,0.06
+fraud_Gottlieb Group,0.0
+"fraud_Gottlieb, Considine and Schultz",0.01818181818181818
+fraud_Gottlieb-Hansen,0.0
+fraud_Goyette Inc,0.03571428571428571
+"fraud_Goyette, Howell and Collier",0.0
+fraud_Goyette-Gerhold,0.0
+fraud_Goyette-Herzog,0.0
+fraud_Graham and Sons,0.0
+"fraud_Graham, Hegmann and Hammes",0.0
+"fraud_Greenfelder, Bartoletti and Davis",0.0
+fraud_Greenholt Ltd,0.0
+"fraud_Greenholt, Jacobi and Gleason",0.0
+"fraud_Greenholt, O'Hara and Balistreri",0.02
+fraud_Grimes LLC,0.0
+fraud_Gulgowski LLC,0.0
+fraud_Gutmann Ltd,0.0
+"fraud_Gutmann, McLaughlin and Wiza",0.0
+fraud_Gutmann-Upton,0.0
+fraud_Haag-Blanda,0.0
+fraud_Hackett Group,0.0
+fraud_Hackett-Lueilwitz,0.014925373134328358
+"fraud_Hagenes, Hermann and Stroman",0.0
+"fraud_Hagenes, Kohler and Hoppe",0.0
+"fraud_Hahn, Bahringer and McLaughlin",0.0
+"fraud_Hahn, Douglas and Schowalter",0.0
+fraud_Haley Group,0.0
+"fraud_Haley, Batz and Auer",0.0
+"fraud_Haley, Jewess and Bechtelar",0.0
+fraud_Halvorson Group,0.0
+fraud_Hamill-D'Amore,0.0
+fraud_Hamill-Daugherty,0.0
+fraud_Hammes-Beatty,0.0
+fraud_Harber Inc,0.0
+fraud_Harris Group,0.0
+fraud_Harris Inc,0.0
+"fraud_Harris, Gusikowski and Heaney",0.0
+"fraud_Hartmann, Rowe and Hermann",0.0
+"fraud_Hauck, Dietrich and Funk",0.018867924528301886
+"fraud_Hayes, Marquardt and Dibbert",0.04
+fraud_Heaney-Marquardt,0.0
+fraud_Heathcote LLC,0.06382978723404255
+"fraud_Heathcote, Yost and Kertzmann",0.0
+fraud_Heidenreich PLC,0.05357142857142857
+fraud_Heller PLC,0.0
+"fraud_Heller, Gutmann and Zieme",0.0
+fraud_Heller-Abshire,0.0
+fraud_Heller-Langosh,0.017857142857142856
+fraud_Herman Inc,0.0
+"fraud_Herman, Treutel and Dickens",0.0
+fraud_Hermann and Sons,0.02
+fraud_Hermann-Gaylord,0.0
+"fraud_Hermiston, Pacocha and Smith",0.0
+"fraud_Hermiston, Russel and Price",0.0
+fraud_Herzog Ltd,0.0
+"fraud_Hettinger, McCullough and Fay",0.0
+fraud_Hickle Group,0.017857142857142856
+"fraud_Hills, Hegmann and Schaefer",0.0
+fraud_Hills-Boyer,0.0
+fraud_Hills-Olson,0.0
+fraud_Hills-Witting,0.017857142857142856
+fraud_Hilpert-Conroy,0.0
+"fraud_Hintz, Bauch and Smith",0.0
+fraud_Hintz-Bruen,0.0
+fraud_Hirthe-Beier,0.0
+"fraud_Hodkiewicz, Prohaska and Paucek",0.0
+fraud_Homenick LLC,0.0
+"fraud_Hoppe, Harris and Bednar",0.0
+fraud_Hoppe-Parisian,0.0
+fraud_Howe Ltd,0.022727272727272728
+fraud_Howe PLC,0.0
+fraud_Hudson-Grady,0.017857142857142856
+fraud_Hudson-Ratke,0.01694915254237288
+fraud_Huel Ltd,0.047619047619047616
+"fraud_Huel, Hammes and Witting",0.0
+fraud_Huel-Langworth,0.0
+fraud_Huels-Hahn,0.0
+fraud_Huels-Nolan,0.0
+"fraud_Hyatt, Russel and Gleichner",0.0
+fraud_Hyatt-Blick,0.0
+fraud_Jacobi Inc,0.02702702702702703
+fraud_Jacobi and Sons,0.0
+fraud_Jakubowski Group,0.0
+fraud_Jakubowski Inc,0.0
+fraud_Jaskolski-Dibbert,0.0
+fraud_Jaskolski-Vandervort,0.0
+fraud_Jast Ltd,0.022222222222222223
+fraud_Jast and Sons,0.0
+fraud_Jast-McDermott,0.0
+"fraud_Jenkins, Hauck and Friesen",0.045454545454545456
+fraud_Jerde-Hermann,0.0
+fraud_Jewess LLC,0.018867924528301886
+fraud_Johns Inc,0.0
+fraud_Johns-Hoeger,0.0
+"fraud_Johnson, Runolfsdottir and Mayer",0.038461538461538464
+"fraud_Johnston, Nikolaus and Maggio",0.0
+fraud_Johnston-Casper,0.0
+"fraud_Jones, Sawayn and Romaguera",0.11538461538461539
+fraud_Kassulke Inc,0.0
+fraud_Kassulke PLC,0.0
+fraud_Kautzer and Sons,0.0
+fraud_Keeling-Crist,0.0
+fraud_Kemmer-Buckridge,0.0
+fraud_Kemmer-Reinger,0.0
+fraud_Kerluke Inc,0.0
+fraud_Kerluke PLC,0.03125
+"fraud_Kerluke, Considine and Macejkovic",0.037037037037037035
+"fraud_Kerluke, Kertzmann and Wiza",0.0
+fraud_Kerluke-Abshire,0.024390243902439025
+fraud_Kertzmann LLC,0.0
+fraud_Kessler Group,0.0
+fraud_Kessler Inc,0.0
+fraud_Kiehn Inc,0.018867924528301886
+fraud_Kiehn-Emmerich,0.06521739130434782
+fraud_Kihn Inc,0.046511627906976744
+"fraud_Kihn, Abernathy and Douglas",0.047619047619047616
+"fraud_Kihn, Brakus and Goyette",0.0
+fraud_Kihn-Fritsch,0.0
+fraud_Kihn-Schuster,0.0
+fraud_Kilback Group,0.0
+fraud_Kilback LLC,0.0
+fraud_Kilback and Sons,0.0
+"fraud_Kilback, Nitzsche and Leffler",0.0
+fraud_Kirlin and Sons,0.0
+fraud_Klein Group,0.0
+fraud_Kling Inc,0.0
+"fraud_Kling, Howe and Schneider",0.0
+fraud_Kling-Ernser,0.0
+fraud_Kling-Grant,0.041666666666666664
+fraud_Klocko LLC,0.0
+"fraud_Klocko, Runolfsdottir and Breitenberg",0.0
+fraud_Koelpin and Sons,0.03333333333333333
+fraud_Koepp-Parker,0.05084745762711865
+fraud_Koepp-Witting,0.058823529411764705
+"fraud_Kohler, Lindgren and Koelpin",0.0
+"fraud_Konopelski, Schneider and Hartmann",0.020833333333333332
+fraud_Koss and Sons,0.017857142857142856
+"fraud_Koss, Hansen and Lueilwitz",0.0
+"fraud_Koss, McLaughlin and Mayer",0.0
+fraud_Kovacek Ltd,0.05
+"fraud_Kovacek, Dibbert and Ondricka",0.01639344262295082
+fraud_Kozey-Boehm,0.04081632653061224
+fraud_Kozey-Kuhlman,0.023809523809523808
+fraud_Kozey-McDermott,0.0
+fraud_Kris-Kertzmann,0.0
+fraud_Kris-Padberg,0.018867924528301886
+fraud_Kris-Weimann,0.043478260869565216
+fraud_Kub PLC,0.0
+fraud_Kub-Heaney,0.0
+fraud_Kuhic Inc,0.041666666666666664
+fraud_Kuhic LLC,0.0
+"fraud_Kuhic, Bins and Pfeffer",0.021739130434782608
+fraud_Kuhn Group,0.0
+fraud_Kuhn LLC,0.0
+fraud_Kulas Group,0.0
+fraud_Kunde-Sanford,0.0
+fraud_Kunze Inc,0.017241379310344827
+"fraud_Kunze, Larkin and Mayert",0.0
+fraud_Kuphal-Bartoletti,0.06896551724137931
+fraud_Kuphal-Predovic,0.0
+fraud_Kuphal-Toy,0.0
+fraud_Kutch Group,0.0
+fraud_Kutch LLC,0.0273972602739726
+fraud_Kutch and Sons,0.01694915254237288
+"fraud_Kutch, Hermiston and Farrell",0.0
+"fraud_Kutch, Steuber and Gerhold",0.02564102564102564
+fraud_Kutch-Ferry,0.0
+fraud_Kutch-Hegmann,0.0
+fraud_Kutch-Wilderman,0.014925373134328358
+fraud_Kuvalis Ltd,0.014705882352941176
+fraud_Labadie LLC,0.0
+"fraud_Labadie, Treutel and Bode",0.019230769230769232
+"fraud_Lakin, Ferry and Beatty",0.02702702702702703
+"fraud_Lang, Towne and Schuppe",0.0
+"fraud_Langosh, Wintheiser and Hyatt",0.0
+fraud_Langworth LLC,0.0
+"fraud_Langworth, Boehm and Gulgowski",0.0
+fraud_Larkin Ltd,0.0
+"fraud_Larkin, Stracke and Greenfelder",0.0
+"fraud_Larson, Quitzon and Spencer",0.0
+fraud_Larson-Moen,0.022222222222222223
+fraud_Leannon-Nikolaus,0.0
+fraud_Leannon-Ward,0.0
+fraud_Lebsack and Sons,0.0
+"fraud_Ledner, Hartmann and Feest",0.0
+fraud_Ledner-Pfannerstill,0.0
+fraud_Leffler-Goldner,0.0
+"fraud_Lehner, Mosciski and King",0.05714285714285714
+"fraud_Lehner, Reichert and Mills",0.0
+fraud_Lemke and Sons,0.0
+fraud_Lemke-Gutmann,0.03773584905660377
+fraud_Lesch Ltd,0.0
+"fraud_Lesch, D'Amore and Brown",0.0
+"fraud_Lind, Huel and McClure",0.0
+fraud_Lind-Buckridge,0.0
+fraud_Little Ltd,0.0
+"fraud_Little, Gutmann and Lynch",0.0425531914893617
+fraud_Little-Gleichner,0.0
+fraud_Lockman Ltd,0.01639344262295082
+"fraud_Lockman, West and Runte",0.0136986301369863
+"fraud_Lowe, Dietrich and Erdman",0.023809523809523808
+"fraud_Lubowitz, Terry and Stracke",0.0
+fraud_Lubowitz-Walter,0.0
+fraud_Luettgen PLC,0.0
+fraud_Lynch Ltd,0.01639344262295082
+fraud_Lynch-Mohr,0.0
+fraud_Lynch-Wisozk,0.0
+fraud_Macejkovic-Lesch,0.0
+fraud_Maggio-Fahey,0.0
+fraud_Mante Group,0.034482758620689655
+"fraud_Mante, Luettgen and Hackett",0.0
+fraud_Marks Inc,0.0
+fraud_Marvin-Lind,0.0
+fraud_Mayert Group,0.015873015873015872
+fraud_McCullough Group,0.0
+fraud_McCullough LLC,0.0
+"fraud_McCullough, Hudson and Schuster",0.0
+"fraud_McDermott, Osinski and Morar",0.0
+fraud_McDermott-Rice,0.02857142857142857
+fraud_McDermott-Weimann,0.0125
+fraud_McGlynn-Heathcote,0.06818181818181818
+fraud_McGlynn-Jaskolski,0.0
+fraud_McKenzie-Huels,0.0
+"fraud_McLaughlin, Armstrong and Koepp",0.0
+fraud_Medhurst Inc,0.0
+fraud_Medhurst PLC,0.02040816326530612
+"fraud_Medhurst, Cartwright and Ebert",0.0
+"fraud_Medhurst, Labadie and Gottlieb",0.0096
+"fraud_Metz, Russel and Metz",0.0
+fraud_Metz-Boehm,0.0
+fraud_Miller-Harris,0.030303030303030304
+fraud_Miller-Hauck,0.024390243902439025
+"fraud_Moen, Reinger and Murphy",0.05263157894736842
+fraud_Mohr Inc,0.0
+fraud_Mohr-Bayer,0.021739130434782608
+"fraud_Monahan, Bogisich and Ledner",0.027777777777777776
+"fraud_Monahan, Hermann and Johns",0.0
+fraud_Monahan-Morar,0.0
+"fraud_Moore, Dibbert and Koepp",0.0625
+"fraud_Moore, Williamson and Emmerich",0.0
+fraud_Morar Inc,0.0
+fraud_Morissette LLC,0.0
+fraud_Morissette PLC,0.03636363636363636
+"fraud_Morissette, Weber and Wiegand",0.0
+fraud_Morissette-Schaefer,0.0
+fraud_Mosciski Group,0.047619047619047616
+"fraud_Mosciski, Gislason and Mertz",0.046153846153846156
+"fraud_Mosciski, Ziemann and Farrell",0.0
+fraud_Mraz-Herzog,0.0
+"fraud_Mueller, Gerhold and Mueller",0.0
+fraud_Murray Ltd,0.0
+fraud_Murray-Smitham,0.07407407407407407
+fraud_Nader-Heller,0.0
+fraud_Nader-Maggio,0.0
+"fraud_Nicolas, Hills and McGlynn",0.018518518518518517
+fraud_Nienow PLC,0.0
+"fraud_Nienow, Ankunding and Collier",0.022222222222222223
+"fraud_Nienow, Barrows and Romaguera",0.0
+"fraud_Nitzsche, Kessler and Wolff",0.0
+fraud_Nolan-Williamson,0.0
+"fraud_O'Connell, Botsford and Hand",0.0
+fraud_O'Connell-Ullrich,0.0
+fraud_O'Hara-Wilderman,0.037037037037037035
+fraud_O'Keefe-Hudson,0.07017543859649122
+fraud_O'Keefe-Wisoky,0.0
+"fraud_O'Reilly, Mohr and Purdy",0.0
+"fraud_Okuneva, Schneider and Rau",0.0
+"fraud_Olson, Becker and Koch",0.015873015873015872
+fraud_Ortiz Group,0.0
+fraud_Osinski Inc,0.0
+"fraud_Osinski, Ledner and Leuschke",0.014925373134328358
+fraud_Pacocha-Bauch,0.0
+fraud_Pacocha-O'Reilly,0.0410958904109589
+fraud_Pacocha-Weissnat,0.0
+fraud_Padberg-Rogahn,0.0
+fraud_Padberg-Sauer,0.0
+fraud_Padberg-Welch,0.04838709677419355
+fraud_Pagac LLC,0.02631578947368421
+fraud_Parisian and Sons,0.014492753623188406
+"fraud_Parisian, Schiller and Altenwerth",0.02564102564102564
+"fraud_Parker, Nolan and Trantow",0.0
+fraud_Parker-Kunde,0.0
+fraud_Paucek-Wiza,0.0
+fraud_Pfeffer LLC,0.0
+fraud_Pfeffer and Sons,0.05660377358490566
+fraud_Pollich LLC,0.0
+"fraud_Pouros, Walker and Spencer",0.0
+fraud_Pouros-Conroy,0.014285714285714285
+fraud_Pouros-Haag,0.018518518518518517
+fraud_Powlowski-Weimann,0.021739130434782608
+fraud_Predovic Inc,0.020833333333333332
+fraud_Price Inc,0.022222222222222223
+fraud_Prohaska-Murray,0.0
+fraud_Prosacco LLC,0.0
+"fraud_Prosacco, Kreiger and Kovacek",0.0
+"fraud_Quitzon, Green and Bashirian",0.0
+fraud_Quitzon-Goyette,0.0
+fraud_Ratke and Sons,0.0
+fraud_Rau and Sons,0.05
+fraud_Rau-Grant,0.0
+fraud_Rau-Robel,0.0
+"fraud_Raynor, Feest and Miller",0.0
+"fraud_Raynor, Reinger and Hagenes",0.01694915254237288
+fraud_Reichel Inc,0.0
+fraud_Reichel LLC,0.0
+"fraud_Reichel, Bradtke and Blanda",0.0
+"fraud_Reichert, Huels and Hoppe",0.05128205128205128
+"fraud_Reichert, Rowe and Mraz",0.021739130434782608
+"fraud_Reichert, Shanahan and Hayes",0.0425531914893617
+fraud_Reichert-Weissnat,0.0
+fraud_Reilly LLC,0.0
+fraud_Reilly and Sons,0.03333333333333333
+"fraud_Reilly, Heaney and Cole",0.02040816326530612
+"fraud_Reinger, Weissnat and Strosin",0.0
+fraud_Rempel Inc,0.043478260869565216
+fraud_Rempel PLC,0.0
+fraud_Renner Ltd,0.0
+fraud_Reynolds-Schinner,0.0
+"fraud_Rippin, Kub and Mann",0.0
+fraud_Rippin-VonRueden,0.0
+"fraud_Ritchie, Bradtke and Stiedemann",0.0
+"fraud_Ritchie, Oberbrunner and Cremin",0.0
+"fraud_Robel, Cummerata and Prosacco",0.015384615384615385
+"fraud_Roberts, Daniel and Macejkovic",0.0
+"fraud_Roberts, Ryan and Smith",0.0
+fraud_Roberts-Beahan,0.025
+fraud_Rodriguez Group,0.0
+"fraud_Rodriguez, Yost and Jenkins",0.0
+"fraud_Rohan, White and Aufderhar",0.0
+fraud_Rolfson-Kunde,0.0
+fraud_Romaguera Ltd,0.0
+fraud_Romaguera and Sons,0.0
+"fraud_Romaguera, Cruickshank and Greenholt",0.024390243902439025
+"fraud_Romaguera, Wehner and Tromp",0.0
+fraud_Roob LLC,0.0
+"fraud_Roob, Conn and Tremblay",0.0196078431372549
+fraud_Roob-Okuneva,0.0
+"fraud_Rowe, Batz and Goodwin",0.0
+fraud_Rowe-Vandervort,0.058823529411764705
+fraud_Ruecker Group,0.07142857142857142
+"fraud_Ruecker, Beer and Collier",0.0
+fraud_Ruecker-Mayert,0.0
+"fraud_Runolfsdottir, Mueller and Hand",0.0
+fraud_Runolfsson and Sons,0.0
+"fraud_Runte, Green and Emard",0.0
+fraud_Runte-Mohr,0.0
+"fraud_Rutherford, Homenick and Bergstrom",0.0
+fraud_Rutherford-Mertz,0.02040816326530612
+fraud_Satterfield-Lowe,0.0
+fraud_Sawayn PLC,0.0
+fraud_Schaefer Ltd,0.017241379310344827
+"fraud_Schaefer, Fay and Hilll",0.0
+"fraud_Schaefer, Maggio and Daugherty",0.0
+"fraud_Schaefer, McGlynn and Bosco",0.0
+fraud_Schamberger-O'Keefe,0.019230769230769232
+fraud_Schiller Ltd,0.0
+"fraud_Schiller, Blanda and Johnson",0.0
+fraud_Schimmel-Olson,0.0
+fraud_Schmeler Inc,0.0
+"fraud_Schmeler, Bashirian and Price",0.0
+fraud_Schmeler-Howe,0.0
+fraud_Schmidt and Sons,0.05263157894736842
+fraud_Schmidt-Larkin,0.0
+fraud_Schmitt Inc,0.0
+fraud_Schmitt Ltd,0.0
+"fraud_Schneider, Hayes and Nikolaus",0.0
+fraud_Schoen Ltd,0.0
+"fraud_Schoen, Kuphal and Nitzsche",0.03571428571428571
+"fraud_Schoen, Nienow and Bauch",0.0
+fraud_Schoen-Quigley,0.021739130434782608
+fraud_Schroeder Group,0.0
+"fraud_Schroeder, Hauck and Treutel",0.0
+"fraud_Schroeder, Wolff and Hermiston",0.0
+fraud_Schulist Ltd,0.0
+"fraud_Schultz, Simonis and Little",0.0
+fraud_Schumm PLC,0.014492753623188406
+"fraud_Schumm, Bauch and Ondricka",0.05660377358490566
+"fraud_Schumm, McLaughlin and Carter",0.0
+fraud_Schuppe LLC,0.0
+"fraud_Schuppe, Nolan and Hoeger",0.0
+fraud_Schuppe-Schuppe,0.0
+fraud_Shanahan-Lehner,0.02
+fraud_Shields Inc,0.0
+fraud_Shields-Wunsch,0.0
+fraud_Simonis-Prohaska,0.0
+fraud_Skiles LLC,0.0
+fraud_Skiles-Ankunding,0.0
+fraud_Smith-Stokes,0.0
+fraud_Smitham-Boehm,0.0
+fraud_Smitham-Schiller,0.0
+fraud_Spencer PLC,0.021739130434782608
+fraud_Spencer-Runolfsson,0.0
+fraud_Spinka Inc,0.0
+fraud_Spinka-Welch,0.0
+fraud_Sporer Inc,0.0
+fraud_Sporer-Keebler,0.0
+fraud_Stamm-Rodriguez,0.0
+fraud_Stamm-Witting,0.05555555555555555
+"fraud_Stanton, Jakubowski and Baumbach",0.02127659574468085
+fraud_Stark-Batz,0.0
+fraud_Stark-Koss,0.0
+"fraud_Stehr, Jewess and Schimmel",0.0
+fraud_Stiedemann Inc,0.0
+fraud_Stiedemann Ltd,0.0
+"fraud_Stokes, Christiansen and Sipes",0.05
+fraud_Stoltenberg-Beatty,0.02040816326530612
+fraud_Stracke-Lemke,0.0
+fraud_Streich Ltd,0.0
+"fraud_Streich, Dietrich and Barton",0.0
+"fraud_Streich, Hansen and Veum",0.0
+"fraud_Streich, Rolfson and Wilderman",0.0
+"fraud_Stroman, Hudson and Erdman",0.0
+fraud_Strosin-Cruickshank,0.038461538461538464
+"fraud_Swaniawski, Bahringer and Ledner",0.0
+"fraud_Swaniawski, Lowe and Robel",0.0
+"fraud_Swaniawski, Nitzsche and Welch",0.0
+fraud_Swift PLC,0.0
+"fraud_Swift, Bradtke and Marquardt",0.0
+fraud_Terry Ltd,0.0
+"fraud_Terry, Johns and Bins",0.0
+fraud_Terry-Huel,0.06666666666666667
+fraud_Thiel Ltd,0.0
+fraud_Thiel PLC,0.0
+fraud_Thiel-Thiel,0.0
+fraud_Thompson-Gleason,0.0
+fraud_Tillman LLC,0.0
+"fraud_Tillman, Dickinson and Labadie",0.0
+"fraud_Tillman, Fritsch and Schmitt",0.02564102564102564
+"fraud_Torp, Muller and Borer",0.0
+fraud_Torp-Labadie,0.0
+fraud_Torp-Lemke,0.0
+fraud_Torphy-Goyette,0.0
+fraud_Torphy-Kertzmann,0.0
+fraud_Towne LLC,0.0
+"fraud_Towne, Greenholt and Koepp",0.0967741935483871
+"fraud_Towne, Walker and Borer",0.03333333333333333
+fraud_Trantow PLC,0.0
+fraud_Treutel-King,0.043478260869565216
+fraud_Tromp Group,0.0
+"fraud_Tromp, Kerluke and Glover",0.0
+"fraud_Turcotte, Batz and Buckridge",0.0
+"fraud_Turcotte, McKenzie and Koss",0.0
+fraud_Turcotte-Halvorson,0.0
+fraud_Turner LLC,0.0
+fraud_Turner and Sons,0.0
+"fraud_Turner, Ruecker and Parisian",0.0
+"fraud_Turner, Ziemann and Lehner",0.0
+fraud_Ullrich Ltd,0.0
+fraud_Upton PLC,0.0
+fraud_Vandervort-Funk,0.017857142857142856
+fraud_Veum-Koelpin,0.0
+fraud_Volkman Ltd,0.027777777777777776
+fraud_Volkman PLC,0.0
+fraud_Volkman-Predovic,0.03636363636363636
+fraud_VonRueden Group,0.04
+fraud_Waelchi Inc,0.017241379310344827
+fraud_Waelchi-Wolf,0.0
+"fraud_Walter, Hettinger and Kessler",0.0
+fraud_Waters-Cruickshank,0.0
+fraud_Watsica LLC,0.0
+"fraud_Watsica, Haag and Considine",0.0
+fraud_Weber and Sons,0.0
+"fraud_Weber, Thiel and Hammes",0.0
+"fraud_Weimann, Kuhic and Beahan",0.0
+fraud_Weimann-Lockman,0.0
+fraud_Welch Inc,0.0
+"fraud_Welch, Rath and Koepp",0.02040816326530612
+fraud_White and Sons,0.0
+fraud_Wiegand-Lowe,0.0
+fraud_Wilkinson LLC,0.0
+fraud_Wilkinson Ltd,0.0
+fraud_Wilkinson PLC,0.0
+fraud_Will Ltd,0.0
+fraud_Williamson LLC,0.0
+"fraud_Willms, Kris and Bergnaum",0.0
+fraud_Windler LLC,0.0
+"fraud_Windler, Goodwin and Kovacek",0.0
+"fraud_Wintheiser, Dietrich and Schimmel",0.0
+fraud_Wisozk and Sons,0.029411764705882353
+"fraud_Witting, Beer and Ernser",0.0
+fraud_Wiza LLC,0.0
+"fraud_Wiza, Schaden and Stark",0.0
+fraud_Wolf Inc,0.0
+"fraud_Wuckert, Wintheiser and Friesen",0.0
+fraud_Wuckert-Goldner,0.0
+fraud_Wuckert-Walter,0.0
+"fraud_Yost, Block and Koepp",0.0
+"fraud_Yost, Schamberger and Windler",0.047619047619047616
+fraud_Yost-Rogahn,0.0
+fraud_Zboncak LLC,0.0
+fraud_Zboncak Ltd,0.0
+"fraud_Zboncak, Rowe and Murazik",0.017543859649122806
+fraud_Zemlak Group,0.0
+"fraud_Zemlak, Tillman and Cremin",0.0
+fraud_Ziemann-Waters,0.0
+"fraud_Zieme, Bode and Dooley",0.01818181818181818
+fraud_Zulauf LLC,0.0
